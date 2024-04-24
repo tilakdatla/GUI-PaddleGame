@@ -16,7 +16,7 @@ This is a simple implementation of the classic Pong game using Python's turtle m
 ## Installation
 1. Clone this repository.
 2. Navigate to the repository in your terminal.
-3. Run `python main.py` to start the game.
+3. Run `python day21.py` to start the game.
 
 ## Dependencies
 - Python 3
